@@ -1,0 +1,5 @@
+gudhi
+numpy
+pandas
+scikit-learn
+matplotlib
